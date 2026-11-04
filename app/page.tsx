@@ -258,7 +258,7 @@ export default function Home() {
             <div className="hero-person">
               <div className="hero-photo">
                 <Image
-                  src="/aryan-avatar.jpg"
+                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-11-04%20at%207.28.20%20PM-kd8Pt3cor9G1H2vTcVLlvrhwsEjKwC.jpeg"
                   alt="Aryan Mishra portrait"
                   fill
                   priority
@@ -477,7 +477,7 @@ export default function Home() {
               <span className="eyebrow">ACADEMIC FOUNDATION</span>
               <div className="edu-icon"><GraduationCap /></div>
               <h3>B.Sc. in Mathematics</h3>
-              <p>Nandani Educational Institute, Prayagraj</p>
+              <p>Nandini Educational Institute, Gonda, Uttar Pradesh, India</p>
               <div className="edu-meta">
                 <span>Graduated 2024</span><strong>76.71%</strong>
               </div>
