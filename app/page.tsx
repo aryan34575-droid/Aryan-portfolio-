@@ -548,7 +548,7 @@ export default function Home() {
               <p>Open the resume in your browser or download a copy for your records.</p>
             </div>
             <div className="resume-actions">
-              <a className="button outline-button" href="/Aryan-resume.pdf" target="_blank">
+              <a className="button outline-button" href="/Aryan-resume.pdf" target="_blank" rel="noreferrer">
                 Preview resume <Eye size={16} />
               </a>
               <a className="button dark-button" href="/Aryan-resume.pdf" download="Aryan-Mishra-Resume.pdf">
