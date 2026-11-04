@@ -357,7 +357,7 @@ button { font: inherit; cursor: pointer; }
 
 .hero-photo {
   position: absolute;
-  top: -92px;
+  top: -20px;
   right: 12px;
   width: 86px;
   height: 86px;
@@ -1058,7 +1058,7 @@ button { font: inherit; cursor: pointer; }
   .what-card { width: 170px; }
   .project-grid,.cert-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
   .project-card:last-child,.cert-card:last-child { grid-column: span 2; }
-  .hero-photo { top: -82px; right: 10px; width: 78px; height: 78px; }
+  .hero-photo { top: -16px; right: 10px; width: 78px; height: 78px; }
 }
 
 /* Mobile */
@@ -1096,7 +1096,7 @@ button { font: inherit; cursor: pointer; }
 
   .hero h1 { font-size: 48px; }
   .hero-person { height: 300px; }
-  .hero-photo { top: -72px; right: 8px; width: 72px; height: 72px; }
+  .hero-photo { top: -12px; right: 8px; width: 72px; height: 72px; }
   .what-card { left: 0; top: 23px; width: 155px; padding: 11px; }
   .highlight-card { right: 0; top: 20px; width: 158px; padding: 11px; }
   .what-card span { font-size: 9px; gap: 6px; }
